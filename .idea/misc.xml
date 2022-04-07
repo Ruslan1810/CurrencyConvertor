@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProject/CurrencyConvertor/app/src/main/res/drawable/customborder.xml" value="0.231" />
+        <entry key="..\:/AndroidProject/CurrencyConvertor/app/src/main/res/drawable/ic_launcher_background.xml" value="0.144" />
+        <entry key="..\:/AndroidProject/CurrencyConvertor/app/src/main/res/layout-land/activity_calculation.xml" value="0.3649717514124294" />
+        <entry key="..\:/AndroidProject/CurrencyConvertor/app/src/main/res/layout-land/activity_splash.xml" value="0.46979166666666666" />
+        <entry key="..\:/AndroidProject/CurrencyConvertor/app/src/main/res/layout/activity_calculation.xml" value="0.5" />
+        <entry key="..\:/AndroidProject/CurrencyConvertor/app/src/main/res/layout/activity_main.xml" value="0.67" />
+        <entry key="..\:/AndroidProject/CurrencyConvertor/app/src/main/res/layout/activity_splash.xml" value="0.2421875" />
+        <entry key="..\:/AndroidProject/CurrencyConvertor/app/src/main/res/layout/customborder.xml" value="0.30520833333333336" />
+        <entry key="..\:/AndroidProject/CurrencyConvertor/app/src/main/res/layout/item_coin_info.xml" value="0.28177083333333336" />
+        <entry key="..\:/AndroidProject/CurrencyConvertor/app/src/main/res/layout/row.xml" value="0.5" />
+        <entry key="..\:/AndroidProject/CurrencyConvertor/app/src/main/res/layout/toast.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

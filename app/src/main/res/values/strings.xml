@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CurrencyConvertor</string>
+    <string name="convertor">Конвертор Валют</string>
+
+    <string name="refresh">Обновить</string>
+    <string name="currency_char_code_string">Koд</string>
+    <string name="currency_name_string">Наименование</string>
+    <string name="currency_nominal_string">Ном</string>
+    <string name="currency_value_string">Курс</string>
+    <string name="name_currency">Валюта</string>
+    <string name="currency_rub">Российский рубль</string>
+    <string name="currency_rubs">Российских рублей</string>
+    <string name="calculation">Вычисление</string>
+    <string name="calculate">Вычислить</string>
+    <string name="input">Введите число</string>
+    <string name="current_course">Межбанковский курс:</string>
+    <string name="currency_calculator">КАЛЬКУЛЯТОР ВАЛЮТ</string>
+    <string name="input_number">Введите число</string>
+    <string name="input_number_hint">ввод числа</string>
+    <string name="rub">RUB</string>
+    <string name="_0">0</string>
+</resources>
